@@ -1,0 +1,3 @@
+[01-Feb-2024 12:02:50 UTC] HTTP 404 (GET /ajaxEx)
+[01-Feb-2024 12:02:50 UTC] [/home/jleeedin/AboveWebRoot/fatfree-master/lib/base.php:1792] Base->error()
+[01-Feb-2024 12:02:50 UTC] [fatfree/FFF-SimpleExampleAJAX/index.php:190] Base->run()
